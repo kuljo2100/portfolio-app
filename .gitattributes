@@ -1,0 +1,2 @@
+*.glb filter=lfs diff=lfs merge=lfs -text
+my-portfolio-app/src/assets/models/donut_earth.glb filter=lfs diff=lfs merge=lfs -text
