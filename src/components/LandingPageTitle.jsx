@@ -22,12 +22,12 @@ const LandingScene = ({ currentColor, setCurrentColor, getRandomColor, isHovered
           ) : (
            <LandingPageTitle nameWord={nameWord} titleWord={titleWord} currentColor={currentColor} isHovered={isHovered} /> 
           )}
-          {/* <group 
+          <group 
             rotation={[-Math.PI/6, 0, 0]}
             position={[0, -15, 0]}
           >
           <LaptopModel currentColor={currentColor} setIsHovered={setIsHovered} />
-          </group> */}
+          </group>
         </Canvas>
       </ChakraBox>
 
