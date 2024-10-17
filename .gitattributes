@@ -1,1 +1,11 @@
 *.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/donut_earth.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/dymaxion_map.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/hologram_globe.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/laughing_cat.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/laptop.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/mega_gattling_pea.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/portal_companion_cube.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/ps5_controller.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/side_eye_emoji.glb filter=lfs diff=lfs merge=lfs -text
+portfolio-app/src/assets/models/sunglasses.glb filter=lfs diff=lfs merge=lfs -text
